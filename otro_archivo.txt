@@ -1,1 +1,2 @@
 Acabo de agregar una primera linea
+Esta es la segunda línea para comprobar el 'git diff'
